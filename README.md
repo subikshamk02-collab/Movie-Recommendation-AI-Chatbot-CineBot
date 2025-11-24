@@ -50,10 +50,10 @@ This project includes:
 ```bash
 git clone https://github.com/yourusername/moviebot-nlp.git
 cd moviebot-nlp
-2️⃣ Install requirements
+###2️⃣ Install requirements
 pip install -r requirements.txt
 
-3️⃣ Run the Streamlit app
+###3️⃣ Run the Streamlit app
 streamlit run app.py
 
 
