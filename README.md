@@ -50,4 +50,48 @@ This project includes:
 ```bash
 git clone https://github.com/yourusername/moviebot-nlp.git
 cd moviebot-nlp
+2️⃣ Install requirements
+pip install -r requirements.txt
 
+3️⃣ Run the Streamlit app
+streamlit run app.py
+
+
+MovieBot will open in your browser automatically!
+
+💬 Example Questions
+
+Try asking:
+
+Who directed Titanic?
+
+When was Inception released?
+
+What genre is Avatar?
+
+What is the IMDb rating of The Dark Knight?
+
+Who are the actors in Interstellar?
+
+What language is Slumdog Millionaire in?
+
+How long is Life of Pi?
+
+What was the budget of Avatar?
+
+🌱 Future Improvements
+
+GPT-powered conversation
+
+Movie recommendations
+
+Voice input support
+
+More datasets (TV shows, actors, franchises)
+
+Hosting on Streamlit Cloud / HuggingFace
+
+👩‍💻 Author
+
+M. Subiksha
+Passionate about AI, NLP, embedded systems, and building things that feel alive ✨
